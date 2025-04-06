@@ -58,6 +58,9 @@
 
 <h2>🎓 Certifications</h2>
 
+- Completed the "Ethical Hacking for Professionals" course offered by **Byte Capsule**.
+- Completed the "Ethical Hacking" Course offered by **WsCube Tech**
+- Excel Dashboards For Data Analytics (for actively participating in the Masterclass on) offered by **WsCube Tech**
 <br>
   
 <h2>🧐 More About Me:</h2>
