@@ -1,5 +1,5 @@
 # tanvirhossain.github.io
-A brief overview of the journey
+<h1>A brief overview of the journey</h1>
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
