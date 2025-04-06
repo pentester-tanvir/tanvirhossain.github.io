@@ -26,9 +26,16 @@
 <br/>
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MDTANVIRHOSSAIN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MDTANVIRHOSSAIN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br>
   
 ### 🧐 More About Me:
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+ 
 - 🔭 I’m currently working on **Byte Capsule**
 
 - 🌱 I’m currently learning **Penetration Testing | Ethical Hackering**
@@ -47,7 +54,7 @@
 
 
 
-
+<br>
 
 
 
@@ -56,18 +63,7 @@
 
 
 
-
-
-
-#############################
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MDTANVIRHOSSAIN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MDTANVIRHOSSAIN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-#####################################
+<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gohome"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gohome" /></a><a href="https://ko-fi.com/gohome"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gohome" /></a></p><br><br>
