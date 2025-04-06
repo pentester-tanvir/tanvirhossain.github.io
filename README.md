@@ -2,12 +2,17 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=%22Change+yourself%2C+Destiny+will+change+itself%22;Always+learning+new+things" alt="Typing SVG" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pentester-tanvir&label=Profile%20views&color=0e75b6&style=flat" alt="(https://github.com/pentester-tanvir)" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pentester-tanvir" alt="(https://github.com/pentester-tanvir)" /></a> </p>
+
+ </br>
 <h5>Title: Penetration Tester | Ethical Hacker</h5>
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://twitter.com/gohome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gohome" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gohome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gohome" height="30" width="40" /></a>
-<a href="https://fb.com/gohome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gohome" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/contact-md-tanvir-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gohome" height="30" width="40" /></a>
+<a href="https://fb.com/tanvir306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir306" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gohome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gohome" height="30" width="40" /></a>
 </p>
 
@@ -36,10 +41,6 @@
 
 <br>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pentester-tanvir&label=Profile%20views&color=0e75b6&style=flat" alt="(https://github.com/pentester-tanvir)" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pentester-tanvir" alt="(https://github.com/pentester-tanvir)" /></a> </p>
 
 
 - 🔭 I’m currently working on **Byte Capsule**
