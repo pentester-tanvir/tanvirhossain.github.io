@@ -37,8 +37,6 @@
 - Social Engineering (Red Team engagements)
   
 - Internal/External Infrastructure Testing
-  
-<br>
 
 <h3>🧰 Tools & Technologies</h3>
 
@@ -46,14 +44,11 @@
 
 - SQLMap, Hydra, Nikto, John the Ripper, Dirbuster, BloodHound
 
-- Scripting in Python, Bash, PowerShell
-<br>
+- Scripting in Python, Bash, PowerShell 
 
 <h3>📄 Reporting & Documentation</h3>
 
 - Professional report writing (executive and technical reports)
-
-
 <br>
 
 <h2>🎓 Certifications</h2>
@@ -66,7 +61,8 @@
 <h2>🧐 More About Me:</h2>
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
  
-- 🔭 I’m currently working on **Byte Capsule**
+- 🔭 I am continuing my internship with
+     **Byte Capsule** as part of my course program
 
 - 🌱 I’m currently learning **Penetration Testing | Ethical Hackering**
 
