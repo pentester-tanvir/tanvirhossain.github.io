@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=10000&pause=1000&color=00F724&repeat=false&width=490&lines=Hey+%F0%9F%91%8B%2C+This+is+MD+TANVIR+HOSSAIN" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=24&duration=10000&pause=1000&color=00F724&repeat=false&width=500&lines=Hey+%F0%9F%91%8B%2C+This+is+MD+TANVIR+HOSSAIN" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&center=true&vCenter=true&width=435&lines=%22Change+yourself%2C+Destiny+will+change+itself%22;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=%22Change+yourself%2C+Destiny+will+change+itself%22;Always+learning+new+things" alt="Typing SVG" /></a>
 
 <h5>Title: Penetration Tester | Ethical Hacker</h5>
 <h5 align="left">Connect with me:</h5>
