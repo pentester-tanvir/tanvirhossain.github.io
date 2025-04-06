@@ -15,7 +15,8 @@
 
 
 <h2>Professional Summary</h2>
-A passion of mine has always been to learn new things, explore new ideas and thoughts, and emphasize the importance of self-development. It has always been my objective to improve my skills whenever possible. The dedication, sincerity, honesty, and hard work I intend to put forth will help me to achieve my goals.
+<b>A passion of mine has always been to learn new things, explore new ideas and thoughts, and emphasize the importance of self-development. It has always been my objective to improve my skills whenever possible. The dedication, sincerity, honesty, and hard work I intend to put forth will help me to achieve my goals.
+</b>
 <br/>
 <br/>
 
