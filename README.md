@@ -4,7 +4,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pentester-tanvir&label=Profile%20views&color=0e75b6&style=flat" alt="(https://github.com/pentester-tanvir)" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pentester-tanvir" alt="(https://github.com/pentester-tanvir)" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="(https://github.com/)" /></a> </p>
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
